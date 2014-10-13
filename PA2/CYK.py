@@ -3,7 +3,7 @@
  Author: Chenguang Zhu
  CS154, Stanford University
 
- Author of Anwser for Programming Assignments of Automata in coursera.org: Yusong Gao
+ Author of Answer for Programming Assignments of Automata in coursera.org: Yusong Gao
 '''
 import sys,traceback
 import os
